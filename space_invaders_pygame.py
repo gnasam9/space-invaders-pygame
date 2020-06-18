@@ -2,6 +2,7 @@ import pygame
 import os
 import random
 import time
+pygame.init()
 pygame.font.init()
 WIDTH,HEIGHT=750,700
 WIN=pygame.display.set_mode((WIDTH,HEIGHT))
