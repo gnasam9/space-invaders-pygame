@@ -1,1 +1,1 @@
-install pygame
+pygame==1.9.6
